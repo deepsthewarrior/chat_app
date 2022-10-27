@@ -11,7 +11,7 @@ The chat app contains channels which broadcasts the message to the subscribers.
 
 Thanks to Let's Get Rusty youtube channel for walking through the basics.
 
-Backend - Rust
-Frontend - JavaScript,HTML,CSS
+- Backend - Rust
+- Frontend - JavaScript,HTML,CSS
 
 ![image](/app_screen.png)
