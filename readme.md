@@ -15,8 +15,7 @@ Thanks to Let's Get Rusty youtube channel for walking through the basics.
 - Frontend - JavaScript,HTML,CSS
 
 To build :
-``` cargo build
-```
+``` cargo build```
 To run:
 ``` cargo run```
 ![image](/app_screen.png)
