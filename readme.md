@@ -14,8 +14,10 @@ Thanks to Let's Get Rusty youtube channel for walking through the basics.
 - Backend - Rust
 - Frontend - JavaScript,HTML,CSS
 
-To build :
+- To build :
 ``` cargo build```
-To run:
+
+- To run:
 ``` cargo run```
+
 ![image](/app_screen.png)
